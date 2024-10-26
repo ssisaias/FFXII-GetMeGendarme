@@ -29,3 +29,6 @@ pyautogui + Linux dependencies:
 - First thing to consider is adjusting the  `hold_W()` and ` hold_S()` functions. Test manually the amount of time you need to keep the key pressed and replicate on the function call. 
 - Adjust the `for x in range(5)` loop to help check how will the repetitions behave. When comfortable go with higher numbers.
 - Go to the Great Crystal, defeat Ultima if you have not yet, save the game on the crystal. As soon as you go back to Crystal Peak do not move anymore, start the script: `$ python3 getMeGerdame.py`
+
+
+https://gist.github.com/ssisaias/180c9dd031ede2018a550f5cc50c894f
